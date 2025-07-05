@@ -10,7 +10,7 @@
 
 ###
 
-  <div align="left">
+  <div align="justify">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="16" alt="javascript logo"  />
         <img width="4" />
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="16" alt="angularjs logo"  />
