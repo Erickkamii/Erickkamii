@@ -2,7 +2,38 @@
 
 ###
 
-<p align="left">Web Developer<br>I am a Web Developer passionate about building scalable and efficient software solutions. My expertise lies in Java, Python, and C#, with experience in Spring and ASP.NET for API development. I also have strong knowledge of relational databases (PostgreSQL, SQL Server, SQL) and version control using Git and GitHub.<br><br>🔹 Currently deepening my expertise in Java, focusing on the Spring framework, and learning Quarkus.<br><br>🎓 Education<br><br>Higher Education Diploma in Business Informatics – Fatec Rio Preto (Ongoing)<br>Technical Degree in IT – Etec Philadelpho Gouvêa Netto<br>🛠 Tech Stack<br><br>Languages: Java, Python, C#<br>Frameworks: Spring, Quarkus, ASP.NET<br>Databases: SQL, PostgreSQL, SQL Server<br>Tools: Git, GitHub<br>🚀 Driven by continuous learning, problem-solving, and innovation.<br>📌 Explore my repositories to see my work!</p>
+<p align="left">
+
+<h2>🚀 Java Backend Developer</h2>
+
+Backend-focused developer passionate about building scalable, maintainable, and high-performance software solutions.
+
+I primarily work with <strong>Java 17/21</strong>, focusing on <strong>Spring Boot</strong> and <strong>REST API development</strong>. I also explore <strong>Quarkus</strong> and modern backend architectural approaches such as Clean Architecture and Domain-Driven Design.
+
+<br>
+
+<h3>🛠 Tech Stack</h3>
+
+<strong>Backend:</strong> Java, Spring Boot, Quarkus, REST APIs  
+<strong>Other Languages:</strong> C# (.NET), Python  
+<strong>Databases:</strong> PostgreSQL, SQL Server  
+<strong>Architecture:</strong> Clean Architecture, DDD  
+<strong>Tools:</strong> Docker, Git, GitHub  
+
+<br>
+
+<h3>🎓 Education</h3>
+
+Higher Education Diploma in Business Informatics – Fatec Rio Preto (Ongoing)  
+Technical Degree in IT – Etec Philadelpho Gouvêa Netto  
+
+<br>
+
+🚀 Focused on backend engineering, system design fundamentals, and continuous technical growth.  
+📌 Explore my repositories to see backend projects and architectural experiments.
+
+</p>
+
 
 ###
 
@@ -18,8 +49,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="55" width="55" style="object-fit: contain;" alt="python logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="55" width="55" style="object-fit: contain;" alt="jira logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="55" width="55" style="object-fit: contain;" alt="postgresql logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="55" width="55" style="object-fit: contain;" alt="javascript logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="55" width="55" style="object-fit: contain;" alt="angularjs logo" />
 </p>
 
 
