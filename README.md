@@ -1,63 +1,71 @@
-<h2 align="left">About Me</h2>
+<h1 align="left">Hey, I'm Erick 👋</h1>
 
 ###
 
+<h2 align="left">🚀 Java Backend Developer</h2>
+
 <p align="left">
-
-<h2>🚀 Java Backend Developer</h2>
-
 Backend-focused developer passionate about building scalable, maintainable, and high-performance software solutions.
-
-I primarily work with <strong>Java 17/21</strong>, focusing on <strong>Spring Boot</strong> and <strong>REST API development</strong>. I also explore <strong>Quarkus</strong> and modern backend architectural approaches such as Clean Architecture and Domain-Driven Design.
-
-<br>
-
-<h3>🛠 Tech Stack</h3>
-
-<strong>Backend:</strong> Java, Spring Boot, Quarkus, REST APIs  
-<strong>Other Languages:</strong> C# (.NET), Python  
-<strong>Databases:</strong> PostgreSQL, SQL Server  
-<strong>Architecture:</strong> Clean Architecture, DDD  
-<strong>Tools:</strong> Docker, Git, GitHub  
-
-<br>
-
-<h3>🎓 Education</h3>
-
-Higher Education Diploma in Business Informatics – Fatec Rio Preto (Ongoing)  
-Technical Degree in IT – Etec Philadelpho Gouvêa Netto  
-
-<br>
-
-🚀 Focused on backend engineering, system design fundamentals, and continuous technical growth.  
-📌 Explore my repositories to see backend projects and architectural experiments.
-
+<br><br>
+I primarily work with <strong>Java 17/21</strong>, <strong>Spring Boot</strong>, <strong>REST APIs</strong>, and relational databases. I also explore <strong>Quarkus</strong>, <strong>Clean Architecture</strong>, <strong>Domain-Driven Design</strong>, and modern backend engineering practices.
+<br><br>
+Currently focused on improving my skills in backend architecture, system design fundamentals, performance optimization, and cloud-ready applications.
 </p>
 
+---
 
-###
-
-<h2 align="left">Language</h2>
-
-###
-
+<h2 align="left">🛠 Tech Stack</h2>
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" height="55" width="55" style="object-fit: contain;" alt="java logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="55" width="55" style="object-fit: contain;" alt="spring logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="55" width="55" style="object-fit: contain;" alt="mongodb logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="55" width="55" style="object-fit: contain;" alt="python logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="55" width="55" style="object-fit: contain;" alt="jira logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="55" width="55" style="object-fit: contain;" alt="postgresql logo" />
+  <strong>Backend:</strong> Java, Spring Boot, Quarkus, REST APIs <br>
+  <strong>Other Languages:</strong> C#/.NET, Python <br>
+  <strong>Databases:</strong> PostgreSQL, SQL Server, MongoDB <br>
+  <strong>Architecture:</strong> Clean Architecture, Domain-Driven Design <br>
+  <strong>Tools:</strong> Docker, Git, GitHub, Jira <br>
 </p>
 
+---
 
-###
+<h2 align="left">💻 Technologies</h2>
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,arch,postgres,mongodb,docker,git,github&theme=dark" alt="Tech Stack" />
+  <br>
+  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="Database Icons" />
+</p>
+
+---
+
+<h2 align="left">🎓 Education</h2>
+
+<p align="left">
+  <strong>Higher Education Diploma in Business Informatics</strong> — Fatec Rio Preto<br>
+  <em>Ongoing</em>
+  <br><br>
+  <strong>Technical Degree in IT</strong> — Etec Philadelpho Gouvêa Netto
+</p>
+
+---
+
+<h2 align="left">📌 About my repositories</h2>
+
+<p align="left">
+My repositories are focused on backend development, API design, database modeling, architectural experiments, and practical software engineering studies.
+<br><br>
+Feel free to explore my projects and follow my technical growth as a backend developer.
+</p>
+
+---
+
+<h2 align="left">📊 GitHub Stats</h2>
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Erickkamii&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Erickkamii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Erickkamii&radius=16&theme=github-dark&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Erickkamii&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="GitHub stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Erickkamii&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="Top languages graph" />
 </div>
 
-###
+<br>
+
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Erickkamii&radius=16&theme=github-dark&area=true&order=5" height="300" alt="GitHub activity graph" />
+</div>
