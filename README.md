@@ -1,17 +1,20 @@
-<h1 align="left">Hey, I'm Erick</h1>
+<h1 align="left">Erick Kamii</h1>
 
-###
+<h3 align="left">Java Backend Developer | Spring Boot | REST APIs | Clean Architecture</h3>
 
-<h2 align="left">Java Backend Developer</h2>
+---
+
+<h2 align="left">About Me</h2>
 
 <p align="left">
-Backend-focused developer passionate about building scalable, maintainable, and high-performance software solutions.
+Backend developer focused on designing and building reliable, maintainable, and scalable applications.
 <br><br>
-I primarily work with <strong>Java 17/21</strong>, <strong>Spring Boot</strong>, <strong>REST APIs</strong>, and relational databases. I also explore <strong>Quarkus</strong>, <strong>Clean Architecture</strong>, <strong>Domain-Driven Design</strong>, and modern backend engineering practices.
+I work mainly with <strong>Java 17/21</strong>, <strong>Spring Boot</strong>, <strong>REST APIs</strong>, and relational databases, applying clean code principles and architecture patterns to solve real business problems.
 <br><br>
-Currently focused on improving my skills in backend architecture, system design fundamentals, performance optimization, and cloud-ready applications.
+I also explore <strong>Quarkus</strong>, <strong>Domain-Driven Design</strong>, <strong>Clean Architecture</strong>, and performance optimization to improve the quality, structure, and scalability of backend systems.
+<br><br>
+My current focus is backend engineering, system design fundamentals, API design, and continuous technical growth.
 </p>
-
 ---
 
 <h2 align="left">🛠 Tech Stack</h2>
