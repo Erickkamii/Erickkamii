@@ -1,8 +1,8 @@
-<h1 align="left">Hey, I'm Erick 👋</h1>
+<h1 align="left">Hey, I'm Erick</h1>
 
 ###
 
-<h2 align="left">🚀 Java Backend Developer</h2>
+<h2 align="left">Java Backend Developer</h2>
 
 <p align="left">
 Backend-focused developer passionate about building scalable, maintainable, and high-performance software solutions.
